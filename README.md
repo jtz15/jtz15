@@ -9,13 +9,13 @@ I'm a Computer Science and Business student at the University of Waterloo and Wi
 
 🚀 Experience
 
-Front-end Lead Developer intern @RBC => Led front-end development work for a team of 4 developers. Designed custom components in Figma and created a React dashboard to automate preventing and resolving outages for SREs powered by a ML model. Reduce 30% of incident by 2024 and cost savings of $5.3 million in IT resources to resolve issues.
+* Front-end Lead Developer intern @RBC => Led front-end development work for a team of 4 developers. Designed custom components in Figma and created a React dashboard to automate preventing and resolving outages for SREs powered by a ML model. Reduce 30% of incident by 2024 and cost savings of $5.3 million in IT resources to resolve issues.
 
-Finance Manager intern @P&G => Created product roadmaps for Oral-B & ARC floss products, and developing financial models to forecast sales. New launch plan forecasted to increase share growth projections by 15%.
+* Finance Manager intern @P&G => Created product roadmaps for Oral-B & ARC floss products, and developing financial models to forecast sales. New launch plan forecasted to increase share growth projections by 15%.
 
-HR Technology Analyst intern @Sun Life Financial => Resolving hundereds of customer issues with Workday's systems, and automated tasks using Python scripts and VB macros to reduce manual manipulation for large data sets. Reduced manual work by 20% each week.
+* HR Technology Analyst intern @Sun Life Financial => Resolving hundereds of customer issues with Workday's systems, and automated tasks using Python scripts and VB macros to reduce manual manipulation for large data sets. Reduced manual work by 20% each week.
 
-Lead Software Developer @Lazaridis Studenty Society => Led a team of developers to redesign the LazSoc website; built with JavaScript HTML/CSS. Implemented a job posting dashboard that allowed club executives to manage hiring from the convenience of their LazSoc account; reduced average recruitment by 2 weeks for 100+ club jobs.
+* Lead Software Developer @Lazaridis Studenty Society => Led a team of developers to redesign the LazSoc website; built with JavaScript HTML/CSS. Implemented a job posting dashboard that allowed club executives to manage hiring from the convenience of their LazSoc account; reduced average recruitment by 2 weeks for 100+ club jobs.
 
-Youth Engagement Coordinator @Code Youth => Led a team of 3 to gather sponsorships for the pilot project of a non-profit initiative to support the education of at-risk youth for access to entry-level jobs in Ottawa's tech sector. Secured $1 MM in funding from the Employment and Social Development Canada grant. Built partnerships with Shopify, Nokia, Home Depot, and the Black Professionals in Tech Network.
+* Youth Engagement Coordinator @Code Youth => Led a team of 3 to gather sponsorships for the pilot project of a non-profit initiative to support the education of at-risk youth for access to entry-level jobs in Ottawa's tech sector. Secured $1 MM in funding from the Employment and Social Development Canada grant. Built partnerships with Shopify, Nokia, Home Depot, and the Black Professionals in Tech Network.
 
