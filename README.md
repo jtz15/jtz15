@@ -3,12 +3,9 @@ I'm a Computer Science and Business student at the University of Waterloo and Wi
 
 ⚡ Technical Skills
 
-✅ Languages: C++, Python, JavaScript, TypeScript, C, Java, HTML, CSS, Bash, SQL
-
-🔥 Technologies/Frameworks: React, Figma, Node.js, Express, MongoDB, SQL, Redux, Material-UI, Plotly, jQuery
-
-🛠️ Developer Tools: Jira, Git/GitHub, VS Code, Bash, Yarn, Brew, Confluence, Postman, Object Oriented Programming
-
+* ✅ Languages: C++, Python, JavaScript, TypeScript, C, Java, HTML, CSS, Bash, SQL
+* 🔥 Technologies/Frameworks: React, Figma, Node.js, Express, MongoDB, SQL, Redux, Material-UI, Plotly, jQuery
+* 🛠️ Developer Tools: Jira, Git/GitHub, VS Code, Bash, Yarn, Brew, Confluence, Postman, Object Oriented Programming
 
 🚀 Experience
 
