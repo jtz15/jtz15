@@ -8,7 +8,7 @@ I'm a Computer Science and Business student at the University of Waterloo and Wi
 * 🛠️ Developer Tools: Jira, Git/GitHub, VS Code, Bash, Yarn, Brew, Confluence, Postman, Object Oriented Programming
 
 🚀 Experience
-* Back-end Software Engineer intern @Mark43 => Currently building a reverse geocoding REST API for Mark43’s Computer-Aided Dispatching System (CAD) used by police
+* Back-end Software Engineer intern @Mark43 => Built a reverse geocoding REST API for Mark43’s Computer-Aided Dispatching System (CAD) used by police
 dispatchers. Users enter in a Lat/Long coordinate and the closest address is returned using a triangulation computation SQL query. Java Guice project with MySQL and Maven.
 
 * Front-end Lead Developer intern @RBC => Led front-end development work for a team of 4 developers. Designed custom components in Figma and created a React dashboard to automate preventing and resolving outages for SREs powered by a ML model. Reduce 30% of incident by 2024 and cost savings of $5.3 million in IT resources to resolve issues.
