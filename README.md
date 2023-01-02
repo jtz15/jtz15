@@ -8,6 +8,9 @@ I'm a Computer Science and Business student at the University of Waterloo and Wi
 * 🛠️ Developer Tools: Jira, Git/GitHub, VS Code, Bash, Yarn, Brew, Confluence, Postman, Object Oriented Programming
 
 🚀 Experience
+* Associate Product Manager intern @RBC => Liaised with designers and engineers to launch an MVP of a new education and promotional site to encourage more application
+teams to migrate to Cloud. Developed a Database as a Service (DBaaS) roadmap to enable Amazon RDS for PostgreSQL and Azure PostgreSQL Flexible Server in Q2 2023 on Kyvos, RBC’s containerized application deployment platform.
+
 * Back-end Software Engineer intern @Mark43 => Built a reverse geocoding REST API for Mark43’s Computer-Aided Dispatching System (CAD) used by police
 dispatchers. Users enter in a Lat/Long coordinate and the closest address is returned using a triangulation computation SQL query. Java Guice project with MySQL and Maven.
 
